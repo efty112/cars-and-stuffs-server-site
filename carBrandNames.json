@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "brand_name": "Toyota",
+        "brand_logo": "https://i.postimg.cc/85Tx430N/toyota.png"
+    },
+    {
+        "id": 2,
+        "brand_name": "Ford",
+        "brand_logo": "https://i.postimg.cc/qMYVr1zx/original-70ca699235ac8e0525c5ffd1f73a0826.jpg"
+    },
+    {
+        "id": 3,
+        "brand_name": "BMW",
+        "brand_logo": "https://i.postimg.cc/9Fz5s6Ff/BMW-svg.png"
+    },
+    {
+        "id": 4,
+        "brand_name": "Mercedes-Benz",
+        "brand_logo": "https://i.postimg.cc/PJVGP4Kh/769e367222b218140068d37eae38b9f0.png"
+    },
+    {
+        "id": 5,
+        "brand_name": "Tesla",
+        "brand_logo": "https://i.postimg.cc/2SZpSnWR/tesla-logo-2007-full-640.png"
+    },
+    {
+        "id": 6,
+        "brand_name": "Honda",
+        "brand_logo": "https://i.postimg.cc/8CRqhDwZ/Honda-Logo-svg.png"
+    },
+    {
+        "id": 7,
+        "brand_name": "Audi",
+        "brand_logo": "https://i.postimg.cc/nV3fRFx5/A231415-web-2880.jpg"
+    },
+    {
+        "id": 8,
+        "brand_name": "Volkswagen",
+        "brand_logo": "https://i.postimg.cc/Y98Zs35g/volkswagen-car-logo-png-brand-image-5a214cdb16bd50-1695829015121318030932.jpg"
+    },
+    {
+        "id": 9,
+        "brand_name": "Nissan",
+        "brand_logo": "https://i.postimg.cc/k5306DNV/nissan-brand-logo-1200x938-1594842850.jpg"
+    },
+    {
+        "id": 10,
+        "brand_name": "Chevrolet",
+        "brand_logo": "https://i.postimg.cc/sxXqdWzL/Chevrolet-logo.png"
+    }
+]
